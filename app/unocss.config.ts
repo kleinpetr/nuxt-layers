@@ -4,7 +4,6 @@ import {
 
 export default defineConfig({
   shortcuts: [
-    {'my-red-bg': 'bg-red'},
-    {'my-yellow-font': 'text-yellow'}
+    {'my-red-bg': 'bg-blue'}
   ],
 })

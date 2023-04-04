@@ -1,7 +1,7 @@
 <template>
   <div>
-    <div class="my-red-bg">
-      This has red background but the VsCode extension doesn't highlight it
+    <div class="my-red-bg my-yellow-font">
+      This should be blue with <strong>yellow</strong> font and the VsCode extension should highlight it
     </div>
   </div>
 </template>

@@ -7,7 +7,7 @@ const { myLayer } = useAppConfig()
     <h1>Hello World!</h1>
     <pre>{{ myLayer }}</pre>
     <div>
-      <div class="my-red-bg">
+      <div class="my-red-bg my-yellow-font">
         This should have red background
       </div>
     </div>
